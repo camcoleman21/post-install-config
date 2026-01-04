@@ -71,7 +71,7 @@ This next setting will allow anyone to create tickets without an account require
 <br />
 
 <p>
-<img width="2874" height="1714" alt="image" src="https://github.com/user-attachments/assets/11f37b43-6a7f-4071-a098-21b92b4f833d" />
+<img width="2832" height="1566" alt="image" src="https://github.com/user-attachments/assets/ebb15f0a-2109-4a1e-8864-40d56822439d" />
 </p>
 <p>
 Next, Configure Agents (workers) Admin Panel -> Agents -> Add New. Create an agent named Jane (Dept: SysAdmins) and one named John (Dept: Support)
@@ -79,9 +79,23 @@ Next, Configure Agents (workers) Admin Panel -> Agents -> Add New. Create an age
 <br />
 
 <p>
-<img width="2874" height="1714" alt="image" src="https://github.com/user-attachments/assets/11f37b43-6a7f-4071-a098-21b92b4f833d" />
+<img width="2842" height="1560" alt="image" src="https://github.com/user-attachments/assets/4f7fcd65-ecc2-40af-a53b-4a818a29a08b" />
 </p>
 <p>
-Give the new role a name and set of permissions on the next tabs for Tickets, Tabs, and Knowledge Base.
+Next, configure Users (customers) by navigating to Agent Panel -> Users -> Add New. Create a user named Karen. </p>
+<br />
+
+<p>
+<img width="2852" height="1570" alt="image" src="https://github.com/user-attachments/assets/87d2c3b5-e441-49a2-9372-fd56386d9a8a" />
 </p>
+<p>
+Next, we will configure the SLA by navigating to the Admin Panel -> Manage -> SLA. Add a new SLA plan and set the following: Sev-A (Grace Period: 1 hour, Schedule: 24/7). Sev-B (Grace Period: 4 hours, Schedule: 24/7). Sev-C (Grace Period: 8 hours, Business Hours). </p>
+<br />
+
+<p>
+<img width="2844" height="1556" alt="image" src="https://github.com/user-attachments/assets/4be4ee20-8063-4bce-9076-5daf30a63371" />
+</p>
+<p>
+Finally, we'll want to configure Help Topics for when users create a ticket. Admin Panel -> Manage -> Help Topics -> Add New Help Topic. Create the following: Business Critical Outage (PT: Report a Problem), Personal Computer Issues (PT: Report a Problem), Equipment Request (PT: General Inquiry), Password Reset (PT: Report a Problem), Other (PT: General Inquiry)
+ </p>
 <br />
