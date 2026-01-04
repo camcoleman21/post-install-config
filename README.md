@@ -64,18 +64,17 @@ To configure Teams, go to the Admin Panel -> Agents -> Teams. Click 'Add a New T
 <br />
 
 <p>
-<img width="2874" height="1714" alt="image" src="https://github.com/user-attachments/assets/11f37b43-6a7f-4071-a098-21b92b4f833d" />
+<img width="2834" height="1566" alt="image" src="https://github.com/user-attachments/assets/ac7a3c81-0323-476f-ab70-90504c32b103" />
 </p>
 <p>
-Give the new role a name and set of permissions on the next tabs for Tickets, Tabs, and Knowledge Base.
-</p>
+This next setting will allow anyone to create tickets without an account requirement. Admin Panel -> Settings -> User Settings (UNCHECK: Registered users can create tickets) </p>
 <br />
 
 <p>
 <img width="2874" height="1714" alt="image" src="https://github.com/user-attachments/assets/11f37b43-6a7f-4071-a098-21b92b4f833d" />
 </p>
 <p>
-Give the new role a name and set of permissions on the next tabs for Tickets, Tabs, and Knowledge Base.
+Next, Configure Agents (workers) Admin Panel -> Agents -> Add New. Create an agent named Jane (Dept: SysAdmins) and one named John (Dept: Support)
 </p>
 <br />
 
